@@ -1,2 +1,4 @@
 .idea/
 the_env/
+my_env/
+..migrations/
